@@ -1,8 +1,9 @@
 # Samsung Galaxy A05
 
 - Internal codename is **a05m** (LATAM: a05mub/ GLOBAL: a05mxx)
-- Shipped with OneUI 5.1, Android 13, Kernel 4.19.191
+- Shipped with OneUI 5.1, Android 13, Kernel 4.19.191 (Shipping API level: 33)
 - After OneUI 7, Android 15 update, the kernel got bumped from 4.19.191 to 6.6.50, 6.6.89, and now at 6.6.127
+- Known issues in AOSP: Sim Toolkit, 50MP WingCam, IMS and WPA3 for iOS devices.
 
 | Category | Spec | Details |
 |---|---|---|
